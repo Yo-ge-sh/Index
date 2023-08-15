@@ -1,3 +1,3 @@
-# Index
-Index_Vertical 
-Index_Horizontal
+# Index Pages 
+1.Index_Vertical 
+2.Index_Horizontal
