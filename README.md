@@ -1,2 +1,3 @@
 # Index
-index page 
+Index_Vertical 
+Index_Horizontal
